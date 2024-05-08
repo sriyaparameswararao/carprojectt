@@ -1,0 +1,15 @@
+table{
+    height: 30vh;
+    width: 40vh;
+
+}
+table th,td{
+border: 5px black;
+border-collapse: collapse;
+}
+th{
+    background-color: rgb(186, 138, 79);
+}
+td{
+    background-color: antiquewhite;
+}

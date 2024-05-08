@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+.main{
+    background-color: beige;
+    overflow: auto;
+    border: 20px;
+    border-color: black;
+    width: 15%;
+    border: 5px solid black;
+}
+.main a {
+    float: left;
+    width: 10%;
+    padding: 50px;
+    color: black;
+font-size:x-large;}
+.main a:hover{
+    background-color: aquamarine;
+}

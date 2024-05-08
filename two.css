@@ -1,0 +1,35 @@
+
+.open{
+    background-color: beige;
+   
+    height: 40vh;
+    width: 30vh;
+    border: soild red;
+    margin-right: 40vh;
+    
+}
+
+
+.close{
+    padding: 10vh;
+}
+.second{background-color: blue;
+    height: 40vh;
+    width: 30vh;
+    
+    margin : 100px;
+
+}
+.text{
+padding: 10vh;
+}
+
+.third{
+    background-color: brown;
+    height: 40vh;
+    width: 30vh;
+    margin-right : 50vh;
+}
+.notes{
+    padding: 10;
+}

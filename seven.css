@@ -1,0 +1,42 @@
+body{
+    display :flex ;
+    align-items: center;
+    height: 50vh;
+    justify-content: center;
+    
+}
+.first{
+    background-color: bisque;
+    height: 50vh;
+    width: 80h;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+
+}
+.inputdata{
+    margin-bottom: 14px;
+}
+.inputdata label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.btn label{
+    width: 30vh;
+    padding: auto;
+    border:40px ;
+    background-color:sandybrown ;
+    height: 10vh;
+}
+.inputdata input[type ="text" ]{
+    padding:10px;
+    width:40vh ;
+
+}
+.btn button[type="submit"]:hover{
+    background-color: brown;
+}
+
+

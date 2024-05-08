@@ -1,0 +1,47 @@
+.col1{
+    background-color: rgb(249, 249, 245);
+    height: 100vh;
+    width: 100 vh;
+}
+.col2{
+    background-color: rgb(230, 228, 226);
+height: 100vh;
+width: 100vh;
+}
+.hey{
+    margin-top: 50vh;
+}
+.dog{
+    display: flex;
+    align-items: center;
+}
+.dog a{
+    list-style: none;
+    display: inline;
+    margin: 0%;
+    padding: 0%;
+}
+.hi p{
+font-size: 50px;
+color :blue;
+margin-top: 30vh;
+
+
+}
+.ok{
+    color: blue;
+    margin-left: 50px;
+}
+.to{
+    text-align: center;
+}
+.tt{
+    font-size: medium;
+    text-align: left;
+    margin-left: 50px;
+    color: blueviolet;
+}
+.uu{
+margin-left: 50px;
+
+}

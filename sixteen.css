@@ -1,0 +1,13 @@
+.hi{
+height: 50vh;
+background-color: bisque;
+width: 100vh;
+border: 100px;
+}
+.hi li{
+    display: inline;
+    font-size: xx-large;
+    padding: center;
+    border: 50px;
+}
+
